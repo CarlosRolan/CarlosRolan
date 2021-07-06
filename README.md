@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CarlosRolan
-- 👀 I’m interested in Lenguajes de Programación, Motores Graficosa, Matemáticas.
-- 🌱 I’m currently learning Dessarrollo de aplicaciones multiplataforma
+CarlosRolan
+2ºDAM
 - 📫 How to reach me carlosrolandiaz@gmail.com
 
 
