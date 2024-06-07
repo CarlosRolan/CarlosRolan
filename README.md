@@ -1,5 +1,6 @@
 # CARLOS ROLAN DIAZ 
 ## PROGRAMADOR JUNIOR  
+
 **Ubicación:** Vigo, España  
 **Teléfono:** +34682771473  
 **Correo electrónico:** carlosrolandiaz@gmail.com  
@@ -17,7 +18,7 @@ Me considero un programador orientado a resultados, con habilidades para present
 - Realicé pruebas exhaustivas y depuraciones para ofrecer una aplicación móvil confiable y de alta calidad.
 
 #### Programador de Software en DEMESIX, Vigo  
-*Marzo de 2023 - Septiembre 2023*
+*Marzo de 2023 - Septiembre de 2023*
 - Formo parte del equipo desarrollador de la aplicación UberDriver, centrado en la función del modo Ubication.
 - Desarrollé una funcionalidad que optimiza los servicios basados en el cálculo de la ubicación.
 - Colaboro en la integración y el rendimiento eficiente de la función.
@@ -26,15 +27,15 @@ Me considero un programador orientado a resultados, con habilidades para present
 
 ### EDUCACIÓN
 - **CICLO SUPERIOR DE ROBÓTICA, Santiago**  
-  - Inicié el Ciclo Superior de Robótica en Santiago, adquiriendo conocimientos en áreas como electrónica, programación de sistemas de medida y regulación y robótica.
+  *Inicié en 2020*
+  - Adquirí conocimientos en áreas como electrónica, programación de sistemas de medida y regulación y robótica.
+
 - **Universidad de VIGO, Vigo**  
   *Agosto 2015 — Mayo 2016*
   - Desarrollé una base sólida en principios electrónicos, diseño de circuitos y conceptos de ingeniería.
-  - Adquirí conocimientos y habilidades en áreas tales como electrónica analógica y digital, procesamiento de señales y sistemas de comunicación.
-  - Además conseguí un nivel avanzado en áreas de las matemáticas como Cálculo y Álgebra
+  - Adquirí conocimientos en áreas tales como electrónica analógica y digital, procesamiento de señales y sistemas de comunicación.
 
 - **Grado Técnico Superior en Desarrollo de Aplicaciones MultiPlataforma, Colegio Marcote de Vigo**  
-  *Agosto de 2022 - Presente*
-  - Completé con éxito el primer año del programa, especializándome en el desarrollo de aplicaciones multiplataforma.
-  - Adquirí competencias en lenguajes de programación, marcos y herramientas utilizados en el desarrollo de aplicaciones modernas.
-  - Participe en proyectos prácticos para aplicar conocimientos teóricos y desarrollar habilidades prácticas en la creación de aplicaciones innovadoras y fáciles de usar.
+  *Septiembre de 2020 - Agosto de 2022*
+  - Completé con éxito el programa, especializándome en el desarrollo de aplicaciones multiplataforma.
+  - Participé en proyectos prácticos para aplicar conocimientos teóricos y desarrollar habilidades prácticas en la creación de aplicaciones innovadoras y fáciles de usar. 
