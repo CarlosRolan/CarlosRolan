@@ -1,8 +1,13 @@
-# **CARLOS ROLAN DIAZ**
+# **CARLOS ROLAN DIAZ** PROGRAMADOR JUNIOR FULLSTACK
 
-## PROGRAMADOR JUNIOR FULLSTACK
+**Ubicación:** Vigo, España  
+**Teléfono:** +34682771473  
+**Correo electrónico:** <carlosrolandiaz@gmail.com>  
 
 ## Mi Targeta de contacto en know.ee [targeta](https://www.know.ee/9a6fapZg9HK)
+
+## [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
+## [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
 
 ## Lenguajes mas Usados
 
@@ -44,9 +49,3 @@
   ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=default)
  ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 
-**Ubicación:** Vigo, España  
-**Teléfono:** +34682771473  
-**Correo electrónico:** <carlosrolandiaz@gmail.com>  
-
-# [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
-# [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
