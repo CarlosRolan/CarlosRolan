@@ -1,6 +1,5 @@
 ## Lenguajes mas Usados
- <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
-  <a href="https://github.com/CarlosRolan?tab=followers"><img src="https://img.shields.io/github/followers/CarlosRolan?label=Followers&style=social" alt="GitHub Badge"></a>
+
   <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -32,6 +31,8 @@
 </p>
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=radical) 
+ <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
+  <a href="https://github.com/CarlosRolan?tab=followers"><img src="https://img.shields.io/github/followers/CarlosRolan?label=Followers&style=social" alt="GitHub Badge"></a>
 
  
 # **CARLOS ROLAN DIAZ**
