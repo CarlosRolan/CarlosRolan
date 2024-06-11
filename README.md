@@ -114,7 +114,7 @@ Más allá de sus habilidades técnicas, Carlos es una persona **constante, auto
 Estoy convencido de que Carlos será un **valioso activo** para cualquier equipo de desarrollo. Lo recomendaría sin dudar para un puesto de **Programador Junior**, incluso en un lenguaje o tecnología que no domine, dada su capacidad probada para **adaptarse y aprender rápidamente**.
 
 Para cualquier información adicional o detalle sobre **Carlos Rolán Díaz**, no duden en ponerse en contacto conmigo a través de los datos de mi tarjeta de contacto:  
-[Contacto]([https://www.know.ee/9a6UdDnHNgE](https://www.know.ee/9a6UdDnHNgE#/))
+[Contacto](https://www.know.ee/9a6UdDnHNgE#/)
 
 Atentamente,  
 **Carlos Rodríguez López**  
