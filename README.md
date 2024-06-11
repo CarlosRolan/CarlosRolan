@@ -30,8 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRolan&repo=proyecto&show_icons=true&locale=es&layout=compact&langs_count=6" alt="CarlosRolan" />
 </p>
 
-![Carlos Rolan](http://google.com);
-
 ### Visitas a mi Perfil
 
 <p>
