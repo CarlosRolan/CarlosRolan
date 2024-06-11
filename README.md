@@ -10,7 +10,6 @@
 ## [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
 
 ## Lenguajes mas Usados
-
   <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -38,14 +37,13 @@
 </p>
 
 ### Visitas a mi Perfil
-
 <p>
-   <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
+  <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
   <a href="https://github.com/CarlosRolan?tab=followers"><img src="https://img.shields.io/github/followers/CarlosRolan?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 ### Estadisticas en Git Hub
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosRolan&theme=default)
-  ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=default)
- ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
+![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=default)
+![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 
