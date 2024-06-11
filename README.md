@@ -27,7 +27,7 @@
 </p>
 
 <p align="center" style="width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRolan&repo=proyecto&show_icons=true&locale=es&layout=compact&theme=radical&langs_count=6" alt="CarlosRolan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRolan&repo=proyecto&show_icons=true&locale=es&layout=compact&langs_count=6" alt="CarlosRolan" />
 </p>
 
 ### Visitas a mi Perfil
