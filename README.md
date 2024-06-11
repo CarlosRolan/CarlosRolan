@@ -47,4 +47,5 @@
 **Teléfono:** +34682771473  
 **Correo electrónico:** <carlosrolandiaz@gmail.com>  
 
-[Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
+# [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
+# [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
