@@ -34,7 +34,7 @@
 </p>
 
 ### Estadisticas en Git Hub
-
+![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosRolan&theme=default)
   ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=default)
  ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 # **CARLOS ROLAN DIAZ**
