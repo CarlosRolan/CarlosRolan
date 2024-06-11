@@ -5,6 +5,7 @@
 **Correo electrónico:** <carlosrolandiaz@gmail.com>  
 
 ## Targeta de contacto [targeta](https://www.know.ee/9a6fapZg9HK)
+## [Linkedin ](linkedin.com/in/carlos-rolán-díaz-716a16212)
 
 ## [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
 ## [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
