@@ -4,7 +4,7 @@
 **Teléfono:** +34682771473  
 **Correo electrónico:** <carlosrolandiaz@gmail.com>  
 
-## Mi Targeta de contacto en know.ee [targeta](https://www.know.ee/9a6fapZg9HK)
+## Targeta de contacto [targeta](https://www.know.ee/9a6fapZg9HK)
 
 ## [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
 ## [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
