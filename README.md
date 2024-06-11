@@ -40,7 +40,7 @@
 ### Estadisticas en Git Hub
 
   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan)
-
+ ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 # **CARLOS ROLAN DIAZ**
 
 ## PROGRAMADOR JUNIOR FULLSTACK
