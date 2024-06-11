@@ -3,7 +3,7 @@
            <img src="https://img.shields.io/github/followers/CarlosRolan?label=Followers&style=social" alt="GitHub Badge">
         </a>
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=radical) </p>
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme) </p>
  </h2>
  
 # **CARLOS ROLAN DIAZ**
