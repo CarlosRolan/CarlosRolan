@@ -30,9 +30,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRolan&repo=proyecto&show_icons=true&locale=es&layout=compact&theme=radical&langs_count=6" alt="CarlosRolan" />
 </p>
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=radical) 
- <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
+<p>
+  ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan) 
+</p>
+
+<p>
+  ### Visitas a mi Perfil
+   <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
   <a href="https://github.com/CarlosRolan?tab=followers"><img src="https://img.shields.io/github/followers/CarlosRolan?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 
  
 # **CARLOS ROLAN DIAZ**
