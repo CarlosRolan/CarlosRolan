@@ -39,6 +39,8 @@
  ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 # **CARLOS ROLAN DIAZ**
 
+## Mi Targeta de contacto en know.ee [know.ee](https://www.know.ee/9a6fapZg9HK)
+
 ## PROGRAMADOR JUNIOR FULLSTACK
 
 **Ubicación:** Vigo, España  
