@@ -3,7 +3,7 @@
 **Ubicación:** Vigo, España  
 **Teléfono:** +34682771473  
 **Correo electrónico:** <carlosrolandiaz@gmail.com>  
-**Linkedin: linkedin.com/in/carlos-rolán-díaz-716a16212
+**Linkedin:** linkedin.com/in/carlos-rolán-díaz-716a16212
 
 ## Targeta de contacto [targeta](https://www.know.ee/9a6fapZg9HK)
 
