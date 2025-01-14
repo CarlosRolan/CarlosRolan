@@ -50,5 +50,8 @@
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 
 ### Ejemplos de Proyectos 
+- Un chat implementado en Java CLiente-Servidor
+- Juegos en multijugador en linea hecho con Js y desplegados en un XAMP
+- Un modulo en Odoo que me sirve como plantilla para futuros módulos.
 
 
