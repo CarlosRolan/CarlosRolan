@@ -1,4 +1,3 @@
-## **CARLOS ROLAN DIAZ** 
 # PROGRAMADOR JUNIOR FULLSTACK
 
 **Ubicación:** Vigo, España  
@@ -6,7 +5,7 @@
 **Correo electrónico:** <carlosrolandiaz@gmail.com>  
 **Linkedin:** https://www.linkedin.com/in/carlos-rol%C3%A1n-d%C3%ADaz-716a16212/
 
-## Tarjeta de contacto [targeta](https://www.know.ee/9a6fapZg9HK)
+## [Tarjeta de contacto](https://www.know.ee/9a6fapZg9HK)
 
 ## [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
 ## [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
