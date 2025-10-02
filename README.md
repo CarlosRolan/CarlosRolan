@@ -45,6 +45,8 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="machine-learning" width="40" height="40"/>
 </a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+
 </p>
 
 ### Visitas a mi Perfil
