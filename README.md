@@ -1,6 +1,6 @@
 # FULLSTACK DEVELOPER
 
-**Location:** Vigo, Spain  
+**Location:** Munich, Spain  
 **Phone:** +34682771473  
 **Email:** <carlosrolandiaz@gmail.com>  
 **LinkedIn:** https://www.linkedin.com/in/carlos-rol%C3%A1n-d%C3%ADaz-716a16212/
