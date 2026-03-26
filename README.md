@@ -1,16 +1,16 @@
-# PROGRAMADOR JUNIOR FULLSTACK
+# FULLSTACK DEVELOPER
 
-**Ubicación:** Vigo, España  
-**Teléfono:** +34682771473  
-**Correo electrónico:** <carlosrolandiaz@gmail.com>  
-**Linkedin:** https://www.linkedin.com/in/carlos-rol%C3%A1n-d%C3%ADaz-716a16212/
+**Location:** Vigo, Spain  
+**Phone:** +34682771473  
+**Email:** <carlosrolandiaz@gmail.com>  
+**LinkedIn:** https://www.linkedin.com/in/carlos-rol%C3%A1n-d%C3%ADaz-716a16212/
 
-## [Tarjeta de contacto](https://www.know.ee/9a6fapZg9HK)
+## [Contact Card](https://www.know.ee/9a6fapZg9HK)
 
 ## [Curriculum Vitae](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CV.md)
-## [Carta de Recomendación](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
+## [Recommendation Letter](https://github.com/CarlosRolan/CarlosRolanDoc/blob/main/CartaRecomendacion.md)
 
-## Lenguajes/Herramientas más Usados
+## Most Used Languages/Tools
   <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -41,7 +41,6 @@
    <a href="https://huggingface.co" target="_blank" rel="noreferrer">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
 </a>
-   <!-- Machine Learning (TensorFlow icon como representación) -->
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="machine-learning" width="40" height="40"/>
 </a>
@@ -49,21 +48,19 @@
 
 </p>
 
-### Visitas a mi Perfil
+### Profile Views
 <p>
   <img src="https://profile-counter.glitch.me/CarlosRolan/count.svg" />
   <a href="https://github.com/CarlosRolan?tab=followers"><img src="https://img.shields.io/github/followers/CarlosRolan?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-### Estadisticas en Git Hub
+### GitHub Statistics
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosRolan&theme=default)
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosRolan&theme=default)
 ![Github Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRolan&theme=default)
 
-### Ejemplos de Proyectos 
-- Un motor gráfico muy simple en Java sin librerias, con la capacidad de representar formas geométricas muy básicas
-- Un chat implementado en Java CLiente-Servidor
-- Juegos en multijugador en linea hecho con Js y desplegados en un XAMP
-- Un modulo en Odoo que me sirve como plantilla para futuros módulos.
-
-
+### Project Examples 
+- A very simple graphics engine in Java without libraries, capable of rendering basic geometric shapes
+- A client-server chat implemented in Java
+- Online multiplayer games built with JavaScript and deployed using XAMPP
+- An Odoo module used as a template for future modules
